@@ -6,52 +6,52 @@ yarn-debug.log*
 yarn-error.log*
 
 # Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
+# pids
+# *.pid
+# *.seed
+# *.pid.lock
 
 # Dependency directories
-node_modules/
+# node_modules/
 
 # Optional npm cache directory
-.npm
+# .npm
 
 # Optional eslint cache
-.eslintcache
+# .eslintcache
 
 # Optional REPL history
-.node_repl_history
+# .node_repl_history
 
 # Output of 'npm pack'
-*.tgz
+# *.tgz
 
 # Yarn Integrity file
-.yarn-integrity
+# .yarn-integrity
 
 # dotenv environment variables file
-.env
+# .env
 
 # macOS custom attributes
-.DS_Store
+# .DS_Store
 
 # VisualStudio
-.vscode
+# .vscode
 
 # Intellij
-.idea
+# .idea
 
 # Personal flood config
-config.js
+# config.js
 
 # Flood server
-server/db
-server/assets
-server/temp
+# server/db
+# server/assets
+# server/temp
 
 # Vim temp files
-*.swp
+# *.swp
 
 # JSDoc output
-docs/
-out/
+# docs/
+# out/
